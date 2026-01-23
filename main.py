@@ -86,6 +86,6 @@ if __name__ == "__main__":
     for issue in all_issues:
         print(
             f"[{issue['repository_url'].split('/')[-2:] }] "
-            f"[{issue['number']} - {issue['title']} ({issue['state']})]"
+            f"[{issue['number']} - {issue['title']} ({issue['state']})]",
+            (issue["html_url"])
         )
-        print(issue["html_url"])
