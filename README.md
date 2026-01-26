@@ -1,4 +1,4 @@
-<h1>Github Issue Tracker (GIT)</h1>
+<h1>Repository Issue Tracker (RIT)</h1>
 <h2>1.Generate a PAT</h2>
 <p>If you don't know how to generate a Personal Access Token click on the link below:</p>
 <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token">Managing your personal access tokens</a>
