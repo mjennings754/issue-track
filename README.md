@@ -10,3 +10,4 @@
 <h2>Run the program with python3 main.py</h2>
 <p>You will now see output:</p>
 <img width="1063" height="450" alt="image" src="https://github.com/user-attachments/assets/ed50d723-e86f-4942-87b7-87eae2262c0d" />
+<p>Feel free to star the project, if you find it useful</p>
